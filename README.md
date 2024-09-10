@@ -1,6 +1,9 @@
 ## Welcome 😊
 I’m Vaishali Vaswani, a self-motivated B.Tech graduate with a passion for data analysis and visualization. I enjoy transforming data into actionable insights that drive business decisions. I’m actively seeking opportunities to apply my analytical skills and contribute to impactful projects.
 
+_I feel alive, not because I breathe just because I learn daily 🌟
+                                                              --Vaishali Vaswani_
+
 <!--
 **vaishali071017/vaishali071017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
