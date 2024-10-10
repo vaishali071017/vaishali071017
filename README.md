@@ -2,7 +2,6 @@
 I’m Vaishali Vaswani, a self-motivated B.Tech graduate with a passion for data analysis and visualization. I enjoy transforming data into actionable insights that drive business decisions. I’m actively seeking opportunities to apply my analytical skills and contribute to impactful projects.
 
 _"Learning is my daily goal, flourishing skills is my daily focus" 🌟
-                                                              
                                                               --Vaishali Vaswani_
 
 <!--
